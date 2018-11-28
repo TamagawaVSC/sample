@@ -1,1 +1,10 @@
+# ignore emacs back up files
 /*~
+
+# ignore figure files
+/*.eps
+/*.pdf
+
+# ignore data files
+/*.xlsx
+/*.dat
